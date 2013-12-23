@@ -1,4 +1,5 @@
 from SimpleCV import Image
+
 img = Image('ahmedabad.jpg')
 
 print "Image Height :" + str(img.height)
